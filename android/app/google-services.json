@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175783542733",
+    "project_id": "edeli-28c06",
+    "storage_bucket": "edeli-28c06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175783542733:android:b41c5ec6ad14f8c39a0e84",
+        "android_client_info": {
+          "package_name": "com.nakula.edeli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175783542733-kkqtvrp05isoi5jas2gp0apabo1vln8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0BnynwDCSrPYINPeoZmRHkQMtBOxQq14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175783542733-kkqtvrp05isoi5jas2gp0apabo1vln8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
